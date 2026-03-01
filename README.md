@@ -45,8 +45,8 @@ Standard functions from the `<ctype.h>`, `<string.h>`, and `<stdlib.h>` headers.
 | Class | Functions |
 | :--- | :--- |
 | **Character Class** | `ft_isalpha`, `ft_isdigit`, `ft_isalnum`, `ft_isascii`, `ft_isprint` |
-| **String Ops** | `ft_strlen`, `ft_strlcpy`, `ft_strlcat`, `ft_strchr`, `ft_strrchr`, `ft_strncmp`, `ft_strnstr`, `ft_strdup` |
-| **Memory Ops** | `ft_memset`, `ft_bzero`, `ft_memcpy`, `ft_memmove`, `ft_memchr`, `ft_memcmp`, `ft_calloc` |
+| **String Functions** | `ft_strlen`, `ft_strlcpy`, `ft_strlcat`, `ft_strchr`, `ft_strrchr`, `ft_strncmp`, `ft_strnstr`, `ft_strdup` |
+| **Memory Functions** | `ft_memset`, `ft_bzero`, `ft_memcpy`, `ft_memmove`, `ft_memchr`, `ft_memcmp`, `ft_calloc` |
 | **Conversion** | `ft_toupper`, `ft_tolower`, `ft_atoi` |
 
 ### Part 2 - Additional Functions
