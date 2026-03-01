@@ -33,9 +33,8 @@ To use the library in your projects, include the header in your C files:
 ```
 Then, compile your program with the library:
 ```bash
-cc my_program.c -L. -lft -o my_program
+gcc your_program.c libft.a -o your_program
 ```
-
 ---
 
 ## Functions Overview
